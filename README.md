@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Web Developer experienced in PHP, HTML, CSS, and JavaScript, focused on web application development and optimization. Strong background with Scriptcase (RAD framework), REST APIs, integrations, webhooks, and payment gateway integrations.</p>
+<p align="center">Web Developer focused on building scalable web applications with PHP, HTML, CSS, and JavaScript. Experienced in REST APIs, system integrations, webhooks, and payment gateway implementations. Strong background using Scriptcase (RAD framework) for rapid development.</p>
 
 ###
 
